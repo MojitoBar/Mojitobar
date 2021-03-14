@@ -19,7 +19,7 @@
 - [(Swift) StopWatch](https://github.com/MojitoBar/StopWatch)
 - [(Swift) Capitals](https://github.com/MojitoBar/Capitals)
 - [(Swift) Movies](https://github.com/MojitoBar/Movies)
-- [(Swift) Rorona](https://github.com/MofjitoBar/Rorona)
+- [(Swift) Rorona](https://github.com/MojitoBar/Rorona)
 <hr/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MojitoBar&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
