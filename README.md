@@ -20,7 +20,7 @@
 - [(Swift) Capitals](https://github.com/MojitoBar/Capitals)
 - [(Swift) Movies](https://github.com/MojitoBar/Movies)
 - [(Swift) Rorona](https://github.com/MojitoBar/Rorona)
-- [(Swift) SKHUM]()
+- [(Swift) SKHUM](https://github.com/MojitoBar/SKHUM)
 <br>~~[(Swift) MojitoEats](https://github.com/MojitoBar/MojitoEats)~~ 추후 개발 예정
 <hr/>
 
