@@ -8,7 +8,7 @@
 - <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?logo=Android-Studio&logoColor=white"/>
 - <img src="https://img.shields.io/badge/Spring-6DB33F?logo=Spring&logoColor=white"/>
 - [Algorithm](https://github.com/MojitoBar/Learning_History/tree/master/CodingTest)
-- [iOS](https://github.com/MojitoBar/Learning_History/blob/master/iOS)
+- [iOS](https://github.com/MojitoBar/Learning_History/blob/master/iOS/iOS.md)
 
 ### 🏆 Awards and Honors
 - [SKHU-NoticeApplication - 성공회대 it경진대회 참가작](https://github.com/MojitoBar/SKHU-NoticeApplication)
