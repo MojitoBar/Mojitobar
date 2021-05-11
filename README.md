@@ -5,7 +5,6 @@
 
 ### 📚 Learning
 - <img src="https://img.shields.io/badge/Swift-FA7343?logo=Swift&logoColor=white"/>
-- <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?logo=Android-Studio&logoColor=white"/>
 - <img src="https://img.shields.io/badge/Spring-6DB33F?logo=Spring&logoColor=white"/>
 - [Algorithm](https://github.com/MojitoBar/Learning_History/tree/master/CodingTest)
 - [iOS](https://github.com/MojitoBar/Learning_History/blob/master/iOS/iOS.md)
@@ -24,7 +23,6 @@
 - [(Swift) Rorona](https://github.com/MojitoBar/Rorona)
 - [(Swift) NoiseCamera](https://github.com/MojitoBar/NoiseCamera)
 - [(Swift) SKHUM](https://github.com/MojitoBar/SKHUM)
-- ~~[(Swift) MojitoEats](https://github.com/MojitoBar/MojitoEats)~~
 <hr/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MojitoBar&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
