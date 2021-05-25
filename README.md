@@ -20,7 +20,7 @@
 - [(Swift) StopWatch](https://github.com/MojitoBar/StopWatch)
 - [(Swift) Capitals](https://github.com/MojitoBar/Capitals)
 - [(Swift) Movies](https://github.com/MojitoBar/Movies)
-- [(Swift) Rorona](https://github.com/MojitoBar/Rorona)
+- [(Swift) Rorona](https://github.com/MojitoBar/Rorona) / [(Swift) Rorona2](https://github.com/MojitoBar/Rorona)
 - [(Swift) NoiseCamera](https://github.com/MojitoBar/NoiseCamera)
 - [(Swift) SKHUM](https://github.com/MojitoBar/SKHUM)
 <hr/>
