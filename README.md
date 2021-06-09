@@ -23,7 +23,7 @@
 - [(Swift) Rorona](https://github.com/MojitoBar/Rorona) / [(Swift) Rorona2](https://github.com/MojitoBar/Rorona2)
 - [(Swift) NoiseCamera](https://github.com/MojitoBar/NoiseCamera)
 - [(Swift) SKHUM](https://github.com/MojitoBar/SKHUM)
-- [(Swift) iOS StoryBoard EX] (https://github.com/MojitoBar/iOS_StoryBoard_EX)
+- [(Swift) iOS StoryBoard EX](https://github.com/MojitoBar/iOS_StoryBoard_EX)
 <hr/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MojitoBar&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
