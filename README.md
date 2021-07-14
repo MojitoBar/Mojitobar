@@ -5,7 +5,6 @@
 
 ### 📚 Learning
 - <img src="https://img.shields.io/badge/Swift-FA7343?logo=Swift&logoColor=white"/>
-- <img src="https://img.shields.io/badge/Spring-6DB33F?logo=Spring&logoColor=white"/>
 - [Algorithm](https://github.com/MojitoBar/Learning_History/tree/master/CodingTest)
 - [iOS](https://github.com/MojitoBar/Learning_History/blob/master/iOS/iOS.md)
 
@@ -25,6 +24,4 @@
 - [(Swift) SKHUM](https://github.com/MojitoBar/SKHUM)
 - [(Swift) iOS StoryBoard EX](https://github.com/MojitoBar/iOS_StoryBoard_EX)
 <hr/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MojitoBar&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
