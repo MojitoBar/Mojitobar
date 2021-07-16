@@ -3,25 +3,15 @@
 ### 🧑‍💻 Welcome to my Blog
 - [Mojitobar's Blog](https://mojitobar.github.io/)
 
-### 📚 Learning
-- <img src="https://img.shields.io/badge/Swift-FA7343?logo=Swift&logoColor=white"/>
-- [Algorithm](https://github.com/MojitoBar/Learning_History/tree/master/CodingTest)
-- [iOS](https://github.com/MojitoBar/Learning_History/blob/master/iOS/iOS.md)
+Hi, i'm JITO, a passionate self-taught iOS developer from Korea.
+- 🔭 i'm currently working on my project <b>PINS</b>
+- 🌱 i'm currently learning Swift & Design pattern
+- 🕵️ i'm interested in RxSwift & SwiftUI
 
-### 🏆 Awards and Honors
-- [SKHU-NoticeApplication - 성공회대 it경진대회 참가작](https://github.com/MojitoBar/SKHU-NoticeApplication)
-- [Rorona - 성공회대 it경진대회 참가작](https://github.com/MojitoBar/Rorona)
-- [NongHow - 국방부 K-Startup 참가작](https://github.com/MojitoBar/NongHow)
-- [ㅍㅌㅋㄷ - 신촌 해커톤 참가작](https://github.com/MojitoBar/sinchonhakerthon2018)
-- [BlockHero - SmartTeenAppChallenge 참가작](https://github.com/MojitoBar/Unity_Blockhero)
+### Jobs
+- [Hada](https://hada.work) (2021.05 ~ ing)
 
-### 📑 Portfolio
-- [(Swift) StopWatch](https://github.com/MojitoBar/StopWatch)
-- [(Swift) Capitals](https://github.com/MojitoBar/Capitals)
-- [(Swift) Movies](https://github.com/MojitoBar/Movies)
-- [(Swift) Rorona](https://github.com/MojitoBar/Rorona) / [(Swift) Rorona2](https://github.com/MojitoBar/Rorona2)
-- [(Swift) NoiseCamera](https://github.com/MojitoBar/NoiseCamera)
-- [(Swift) SKHUM](https://github.com/MojitoBar/SKHUM)
-- [(Swift) iOS StoryBoard EX](https://github.com/MojitoBar/iOS_StoryBoard_EX)
-<hr/>
+### Languages and Tools:
+<img src="https://img.shields.io/badge/Swift-FA7343?logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/Xcode-147EFB?logo=Xcode&logoColor=white"/> <img src="https://img.shields.io/badge/UIkit-2396F3?logo=UIkit&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?logo=Java&logoColor=white"/>
 
+![MojitoBar's GitHub stats](https://github-readme-stats.vercel.app/api?username=MojitoBar&show_icons=true&theme=cobalt)
