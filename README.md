@@ -14,4 +14,5 @@ Hi, i'm JITO, a passionate self-taught iOS developer from Korea.
 ### Languages and Tools:
 <img src="https://img.shields.io/badge/Swift-FA7343?logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/Xcode-147EFB?logo=Xcode&logoColor=white"/> <img src="https://img.shields.io/badge/UIkit-2396F3?logo=UIkit&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?logo=Java&logoColor=white"/>
 
-![MojitoBar's GitHub stats](https://github-readme-stats.vercel.app/api?username=MojitoBar&show_icons=true&theme=cobalt)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MojitoBar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
