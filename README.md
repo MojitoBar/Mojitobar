@@ -1,7 +1,7 @@
 # 🙇 Mojitobar's Github
 
 ### 🧑‍💻 Welcome to my Blog
-- [Mojitobar's Blog](https://mojitobar.github.io/)
+- [JuSeok's Blog](https://juseok.xyz/)
 
 Hi, i'm JITO, a passionate self-taught iOS developer from Korea.
 - 🔭 i'm currently working on my project <b>PINS</b>
