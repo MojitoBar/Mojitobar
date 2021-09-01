@@ -1,6 +1,6 @@
 # 🙇 Mojitobar's Github
 
-### 🧑‍💻 Welcome to my Blog
+### 🙌 Welcome to my Blog
 > [JuSeok's Blog](https://juseok.xyz/)
 
 Hi, i'm JITO, a passionate self-taught iOS developer from Korea.
