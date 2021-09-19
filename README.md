@@ -4,7 +4,7 @@
 > [JuSeok's Blog](https://juseok.xyz/)
 
 Hi, i'm JITO, a passionate self-taught iOS developer from Korea.
-- 🔭 i'm currently working on my project [<b>PINS</b>](https://github.com/hadacorp/Pins_iOS)
+- 🔭 i'm currently working on my project [<b>PINS</b>](https://github.com/hadacorp/Pins_iOS), [**GiftY**](https://github.com/MojitoBar/Gifty)
 - 🌱 i'm currently learning Swift & Design pattern
 - 🕵️ i'm interested in RxSwift & SwiftUI
 
