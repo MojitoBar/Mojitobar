@@ -17,4 +17,8 @@ Hi, i'm JITO, a passionate self-taught iOS developer from Korea.
 ### 👨‍👩‍👧‍👦 Contributed to
 > <img src="https://swift.org/assets/images/swift.svg" width="40" height="13"/> [The Swift Language Guide(한국어)](https://github.com/Jusung/the-swift-programming-language-kr)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MojitoBar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### 📊 Stats
+<div>
+<img width="380" src="http://github-readme-streak-stats.herokuapp.com?user=MojitoBar&theme=tokyonight&date_format=%5BY%20%5DM%20j">
+<img width="380" src="https://github-readme-stats.vercel.app/api?username=MojitoBar&show_icons=true&theme=tokyonight">
+</div>
