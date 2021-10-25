@@ -19,6 +19,6 @@ Hi, i'm JITO, a passionate self-taught iOS developer from Korea.
 
 ### 📊 Stats
 <div>
-<img width="380" src="http://github-readme-streak-stats.herokuapp.com?user=MojitoBar&theme=tokyonight&date_format=%5BY%20%5DM%20j">
+<!-- <img width="380" src="http://github-readme-streak-stats.herokuapp.com?user=MojitoBar&theme=tokyonight&date_format=%5BY%20%5DM%20j"> -->
 <img width="380" src="https://github-readme-stats.vercel.app/api?username=MojitoBar&show_icons=true&theme=tokyonight">
 </div>
