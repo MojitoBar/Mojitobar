@@ -3,7 +3,7 @@
 ### 🙌 Welcome to my Blog
 > [JuSeok's Blog](https://juseok.xyz/)
 
-### Resume
+### 📋 Resume
 > [Mojito's Resume](https://profuse-door-fd0.notion.site/iOS-60f151bd94d64f84a67502c198a11235)
 
 Hi, i'm JITO, a passionate self-taught iOS developer from Korea.
