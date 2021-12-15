@@ -9,7 +9,7 @@
 Hi, i'm JITO, a passionate self-taught iOS developer from Korea.
 - 🔭 i'm currently working on my project [<b>PINS</b>](https://github.com/hadacorp/Pins_iOS), [<b>CheckShow</b>](https://github.com/dogVelopers/checkshow)
 - 🌱 i'm currently learning Swift & Design pattern
-- 🕵️ i'm interested in RxSwift & SwiftUI
+- 🕵️ i'm interested in Combine & SwiftUI
 
 ### 👨🏻‍💻 Jobs
 > [Hada](https://www.hadainfo.com/) (2021.05 ~ ing)
