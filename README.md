@@ -1,7 +1,7 @@
 # 🙇 Mojitobar's Github
 
 ### 🙌 Welcome to my Blog
-> [JuSeok's Blog](https://juseokvapor.herokuapp.com/)
+> [JuSeok's Blog](https://juseok.xyz/)
 
 ### 📋 Resume
 > [Mojito's Resume](https://profuse-door-fd0.notion.site/iOS-60f151bd94d64f84a67502c198a11235)
