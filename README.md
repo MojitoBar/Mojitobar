@@ -19,6 +19,8 @@ Hi, i'm JITO, a passionate self-taught iOS developer from Korea.
 <img src="https://img.shields.io/badge/Swift-FA7343?logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/Xcode-147EFB?logo=Xcode&logoColor=white"/> <img src="https://img.shields.io/badge/UIkit-2396F3?logo=UIkit&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?logo=Java&logoColor=white"/>
 
 ### 👨‍👩‍👧‍👦 Contributed to
+> <img src="https://developer.apple.com/wwdc22/images/masthead-22.svg" width="40" height="13"/> [WWDC22 Swift Student Challenge](https://github.com/wwdc/2022)
+
 > <img src="https://swift.org/assets/images/swift.svg" width="40" height="13"/> [The Swift Language Guide(한국어)](https://github.com/Jusung/the-swift-programming-language-kr)
 
 ### 📊 Stats
