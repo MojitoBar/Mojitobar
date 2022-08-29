@@ -13,7 +13,8 @@ Hi, i'm JITO, a passionate self-taught iOS developer from Korea.
 - 👻 i'm studying basic algorithms [<b>HERE</b>](https://profuse-door-fd0.notion.site/9bb4b449ff204aa58adafb568532e1e0)
 
 ### 👨🏻‍💻 Jobs
-> [Hada](https://www.hadainfo.com/) (2021.05 ~ ing)
+> [F-Lab](https://f-lab.kr/) (2022.08.29 ~)
+> [Hada](https://www.hadainfo.com/) (2021.05 ~ 2022.05)
 
 ### 🛠 Languages and Tools
 <img src="https://img.shields.io/badge/Swift-FA7343?logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/Xcode-147EFB?logo=Xcode&logoColor=white"/> <img src="https://img.shields.io/badge/UIkit-2396F3?logo=UIkit&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?logo=Java&logoColor=white"/>
