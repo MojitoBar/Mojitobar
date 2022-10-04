@@ -8,8 +8,8 @@
 
 Hi, i'm JITO, a passionate self-taught iOS developer from Korea.
 - 🔭 i'm currently working on [**F-Lab**](https://f-lab.kr/) project
-- 🌱 i'm currently learning Swift & Design pattern
-- 🕵️ i'm interested in Combine & SwiftUI
+- 🌱 i'm currently learning Dart & Architecture
+- 🕵️ i'm interested in mobile programming
 - 👻 i'm studying basic algorithms [<b>HERE</b>](https://profuse-door-fd0.notion.site/9bb4b449ff204aa58adafb568532e1e0)
 
 ### 👨🏻‍💻 Jobs
