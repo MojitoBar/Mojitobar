@@ -4,7 +4,7 @@
 > [JuSeok's Blog](https://juseok.xyz/)
 
 ### 📋 Resume
-> [Mojito's Resume](https://profuse-door-fd0.notion.site/4b2e078817ce4ab299fce9189275df62?pvs=4))
+> [Mojito's Resume](https://profuse-door-fd0.notion.site/4b2e078817ce4ab299fce9189275df62?pvs=4)
 
 Hi, i'm JITO, a passionate self-taught iOS developer from Korea.
 - 🔭 i'm currently working on [**F-Lab**](https://f-lab.kr/) project, Gifty
