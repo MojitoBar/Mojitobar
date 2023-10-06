@@ -7,12 +7,12 @@
 > [Mojito's Resume](https://profuse-door-fd0.notion.site/4b2e078817ce4ab299fce9189275df62?pvs=4)
 
 Hi, i'm JITO, a passionate self-taught iOS developer from Korea.
-- 🔭 i'm currently working on [**F-Lab**](https://f-lab.kr/) project, Gifty
+- 🔭 i'm currently working on [**F-Lab**](https://f-lab.kr/) project, mentoring
 - 🌱 i'm currently learning Swift, iOS-DeepDive
 - 🕵️ i'm interested in mobile programming
 
 ### 👨🏻‍💻 Jobs
-> [F-Lab](https://f-lab.kr/) (2022.08 ~ )
+> [F-Lab](https://f-lab.kr/) (2022.08 ~ 2023.10)
 
 ### 🛠 Languages and Tools
 <img src="https://img.shields.io/badge/Swift-FA7343?logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/Xcode-147EFB?logo=Xcode&logoColor=white"/> <img src="https://img.shields.io/badge/UIkit-2396F3?logo=UIkit&logoColor=white"/> <img src="https://img.shields.io/badge/IntellijIDEA-007396?logo=IntellijIDEA&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-007396?logo=Kotlin&logoColor=white"/>
