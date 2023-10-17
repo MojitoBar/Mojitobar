@@ -18,9 +18,9 @@ Hi, i'm JITO, a passionate self-taught iOS developer from Korea.
 <img src="https://img.shields.io/badge/Swift-FA7343?logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/Xcode-147EFB?logo=Xcode&logoColor=white"/> <img src="https://img.shields.io/badge/UIkit-2396F3?logo=UIkit&logoColor=white"/> <img src="https://img.shields.io/badge/IntellijIDEA-007396?logo=IntellijIDEA&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-007396?logo=Kotlin&logoColor=white"/>
 
 ### 👨‍👩‍👧‍👦 Contributed to
-> <img src="https://static.wikia.nocookie.net/ipod/images/f/fa/2560px-Apple_WWDC_wordmark.svg.png/revision/latest?cb=20200329030714" width="40" height="13"/> [WWDC22 Swift Student Challenge](https://github.com/wwdc/2022)
+> <img src="https://github.com/MojitoBar/Mojitobar/assets/16567811/d69ba243-39f8-476c-8498-e1b485fbb088" width="20" height="20"/> [WWDC22 Swift Student Challenge](https://github.com/wwdc/2022)
 
-> <img src="https://swift.org/assets/images/swift.svg" width="40" height="13"/> [The Swift Language Guide(한국어)](https://github.com/Jusung/the-swift-programming-language-kr)
+> <img src="https://github.com/MojitoBar/Mojitobar/assets/16567811/699fc34d-cab3-4d73-b3e8-a2411cedcf42" width="20" height="20"/> [The Swift Language Guide(한국어)](https://github.com/Jusung/the-swift-programming-language-kr)
 
 ### 📊 Stats
 <div>
