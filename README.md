@@ -1,7 +1,7 @@
 # 🙇 Mojitobar's Github
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMojitoBar&count_bg=%23823BFF&title_bg=%23555555&icon=apple.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ### 🙌 Welcome to my Blog
-> [JuSeok's Blog](https://mojitobar.github.io/)
+> [Mojito's Blog](https://mojitobar.github.io/)
 
 ### 📋 Resume
 > [Mojito's Resume](https://profuse-door-fd0.notion.site/4b2e078817ce4ab299fce9189275df62?pvs=4)
