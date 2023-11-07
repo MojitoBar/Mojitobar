@@ -21,11 +21,3 @@ Hi, i'm JITO, a passionate self-taught iOS developer from Korea.
 > <img src="https://github.com/MojitoBar/Mojitobar/assets/16567811/d69ba243-39f8-476c-8498-e1b485fbb088" width="20" height="20"/> [WWDC22 Swift Student Challenge](https://github.com/wwdc/2022)
 
 > <img src="https://github.com/MojitoBar/Mojitobar/assets/16567811/699fc34d-cab3-4d73-b3e8-a2411cedcf42" width="20" height="20"/> [The Swift Language Guide(한국어)](https://github.com/Jusung/the-swift-programming-language-kr)
-
-### 📊 Stats
-<div>
-<img width="380" src="https://streak-stats.demolab.com?user=MojitoBar&theme=tokyonight&date_format=%5BY%20%5DM%20j">
-<img width="380" src="https://github-readme-stats.vercel.app/api?username=MojitoBar&show_icons=true&theme=tokyonight">
-</div>
-
-<!-- <a href="https://opgc.me/#/users/MojitoBar" target="_blank"><img src="https://api.opgc.me/githubs/users/MojitoBar/tag/?theme=basic" /></a> -->
