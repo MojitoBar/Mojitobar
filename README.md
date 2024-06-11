@@ -4,14 +4,11 @@
 > [Mojito's Blog](https://mojitobar.github.io/)
 
 ### 📋 Resume
-> [Mojito's Resume](https://profuse-door-fd0.notion.site/4b2e078817ce4ab299fce9189275df62?pvs=4)
-
-Hi, i'm JITO, a passionate self-taught iOS developer from Korea.
-- 🔭 i'm currently working on [**F-Lab**](https://f-lab.kr/) project, mentoring
-- 🌱 i'm currently learning Swift, iOS-DeepDive
-- 🕵️ i'm interested in mobile programming
+> [Mojito's Resume](https://mojitobar.notion.site/063f4789e28f40d280fc92d67412d999?pvs=4)
 
 ### 👨🏻‍💻 Jobs
+> [솔리다리테](https://www.jumpit.co.kr/company/5964?company_nm=%EC%86%94%EB%A6%AC%EB%8B%A4%EB%A6%AC%ED%85%8C) (2024.04 ~ )
+
 > [F-Lab](https://f-lab.kr/) (2022.08 ~ 2023.10)
 
 ### 🛠 Languages and Tools
