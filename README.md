@@ -3,6 +3,10 @@
 ### 🙌 Welcome to my Blog
 > [Mojito's Blog](https://mojitobar.github.io/)
 
+[24/06/29 플러터 랜터링 파이프라인에 대해 알아보자](https://mojitobar.github.io/posts/flutter-rendering-pipeline/)<br>
+[24/06/23 플러터 위젯 라이프사이클 딥다이브](https://mojitobar.github.io/posts/flutter-widget-lifecycle-copy/)<br>
+
+
 ### 📋 Resume
 > [Mojito's Resume](https://mojitobar.notion.site/063f4789e28f40d280fc92d67412d999?pvs=4)
 
