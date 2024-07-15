@@ -3,6 +3,7 @@
 ### 🙌 Welcome to my Blog
 > [Mojito's Blog](https://mojitobar.github.io/)
 
+[24/07/14 - 리팩토링 2판 with Swift - 리팩토링 첫 번째 예시](https://mojitobar.github.io/posts/refactoring-swift-01/)<br>
 [24/06/29 - 플러터 랜터링 파이프라인에 대해 알아보자](https://mojitobar.github.io/posts/flutter-rendering-pipeline/)<br>
 [24/06/23 - 플러터 위젯 라이프사이클 딥다이브](https://mojitobar.github.io/posts/flutter-widget-lifecycle-copy/)<br>
 
