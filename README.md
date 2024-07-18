@@ -12,7 +12,7 @@
 > [Mojito's Resume](https://mojitobar.notion.site/063f4789e28f40d280fc92d67412d999?pvs=4)
 
 ### 👨🏻‍💻 Jobs
-> [솔리다리테](https://www.jumpit.co.kr/company/5964?company_nm=%EC%86%94%EB%A6%AC%EB%8B%A4%EB%A6%AC%ED%85%8C) (2024.04 ~ )
+> [솔리다리테](https://www.jumpit.co.kr/company/5964?company_nm=%EC%86%94%EB%A6%AC%EB%8B%A4%EB%A6%AC%ED%85%8C) (2024.04 ~ 07)
 
 > [F-Lab](https://f-lab.kr/) (2022.08 ~ 2023.10)
 
